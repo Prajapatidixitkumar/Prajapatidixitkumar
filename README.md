@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on:  <br>AI-based Bhakti App & Web Solutions (Frontend + AI Integration)<br><br>🤝 I’m looking to collaborate on:  <br>Open-source AI tools & web projects in the Bhakti niche<br><br>🙋 I’m looking for help with:  <br>Scaling app performance & backend integrations<br><br>🌱 I’m currently learning:  <br>Cybersecurity, Flutter & Shopify Development<br><br>💬 Ask me about:  <br>AI tools, Web UI/UX, GitHub Projects, App Creation<br><br>⚡ Fun fact:  <br>I turned cow dung into business ideas & apps into devotion platforms! 🔥🚀
+🛠️ I’m currently working on:  <br>AI-based Bhakti App & Web Solutions (Frontend + AI Integration)<br><br>🤝 I’m looking to collaborate on:  <br>Open-source AI tools & web projects in the Bhakti niche<br><br>🙋 I’m looking for help with:  <br>Scaling app performance<br><br>🌱 I’m currently learning:  <br>Web Devlopement & Diploma IT Engineering t<br><br>💬 Ask me about:  <br>AI tools, Web UI/UX, GitHub Projects, App Creation<br><br>⚡ Fun fact:  <br>I turned cow dung into business ideas & apps into devotion platforms! 🔥🚀
 
 
 ## 🌐 Socials:
