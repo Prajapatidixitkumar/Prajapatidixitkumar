@@ -81,11 +81,16 @@ Database Integration
 MongoDB + MySQL + Supabase
         ↓
 Practical Application Development
+```
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dixit-prajapati-5b26b9374/
-- 📧 Email: prajapatidixit321@gmail.com
-- 💻 GitHub: https://github.com/Prajapatidixitkumar
+- 💼 LinkedIn: [Dixit Prajapati](https://www.linkedin.com/in/dixit-prajapati-5b26b9374/)
+- 📧 Email: [prajapatidixit321@gmail.com](mailto:prajapatidixit321@gmail.com)
+- 💻 GitHub: [Prajapatidixitkumar](https://github.com/Prajapatidixitkumar)
+
+---
+
+⭐ Thanks for visiting my profile!
