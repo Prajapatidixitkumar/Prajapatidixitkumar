@@ -1,24 +1,116 @@
-# 💫 About Me:
-🛠️ I’m currently working on:  <br>AI-based Bhakti App & Web Solutions (Frontend + AI Integration)<br><br>🤝 I’m looking to collaborate on:  <br>Open-source AI tools & web projects in the Bhakti niche<br><br>🙋 I’m looking for help with:  <br>Scaling app performance<br><br>🌱 I’m currently learning:  <br>Web Devlopement & Diploma IT Engineering <br><br>💬 Ask me about:  <br>AI tools, Web UI/UX, GitHub Projects, App Creation<br><br>⚡ Fun fact:  <br>I turned cow dung into business ideas & apps into devotion platforms! 🔥🚀
+# Hi, I'm Dixit Prajapati 👋
 
+### Computer Engineering Student | Mobile App Developer | Full-Stack Development
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhakti_editiz108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dixit-prajapati-5b26b9374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatidixit321@gmail.com) 
+I'm a Computer Engineering student pursuing B.E. through the Diploma-to-Degree (D-to-D) pathway.
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prajapatidixitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prajapatidixitkumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapatidixitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prajapatidixitkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy building practical mobile and web applications and exploring modern technologies across frontend, backend, databases, and application development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prajapatidixitkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 B.E. Computer Engineering — Government Engineering College, Palanpur
+- 💻 Diploma in Information Technology Engineering — Government Polytechnic, Palanpur
+- 📱 Interested in Mobile App Development and Full-Stack Development
+- 🛠️ Building practical academic and personal projects
+- 🌱 Currently improving my programming and software development skills
+- 🎯 Looking for Software Development / Mobile App Development internships and entry-level opportunities
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- SQL
+
+### Mobile Development
+- React Native
+- Flutter
+- Expo
+
+### Frontend
+- HTML
+- CSS
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MongoDB
+- MySQL
+- Supabase
+
+### Tools & Services
+- Git
+- GitHub
+- Firebase
+- Render
+- MongoDB Compass
+
+---
+
+## 📱 Featured Projects
+
+### 🕉️ Hari Seva — Mobile Application
+A mobile application project focused on devotional content and services.
+
+**Technologies:** React Native, JavaScript, Node.js, Express.js, MongoDB, Firebase
+
+- Mobile application development
+- Frontend UI and navigation
+- Backend API integration
+- Database integration
+- Firebase notification functionality
+- Android application development
+
+---
+
+### 🎓 Tuition Management Application
+An ongoing student-focused tuition management application.
+
+**Technologies:** React Native, JavaScript, Node.js, Express.js, MongoDB
+
+- Class and schedule management
+- Homework and study material
+- Tests and results
+- Attendance management
+- Fee information
+- Notices and announcements
+- Frontend, backend and database integration
+
+---
+
+### 🏫 College Attendance Management
+Academic application developed for managing college attendance-related information.
+
+**Technologies:** React Native, JavaScript, Backend APIs, Database
+
+- Attendance-related functionality
+- Application UI
+- Data management
+- Academic project development
+
+---
+
+## 📊 GitHub Stats
+
+![Dixit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajapatidixitkumar&show_icons=true&hide_border=true)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dixit-prajapati-5b26b9374/
+- 📧 Email: prajapatidixit321@gmail.com
+- 💻 GitHub: https://github.com/Prajapatidixitkumar
+
+---
+
+⭐ Thanks for visiting my profile!
